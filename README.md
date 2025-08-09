@@ -1,2 +1,2 @@
-# C-Problem-1
+# C plus plus Problem-1
 An easy beginner problem with solution.
